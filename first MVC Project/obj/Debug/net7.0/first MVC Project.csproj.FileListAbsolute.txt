@@ -1,0 +1,31 @@
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/bin/Debug/net7.0/appsettings.Development.json
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/bin/Debug/net7.0/appsettings.json
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/bin/Debug/net7.0/first MVC Project.staticwebassets.runtime.json
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/bin/Debug/net7.0/first MVC Project
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/bin/Debug/net7.0/first MVC Project.deps.json
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/bin/Debug/net7.0/first MVC Project.runtimeconfig.json
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/bin/Debug/net7.0/first MVC Project.dll
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/bin/Debug/net7.0/first MVC Project.pdb
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/obj/Debug/net7.0/first MVC Project.csproj.AssemblyReference.cache
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/obj/Debug/net7.0/first MVC Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/obj/Debug/net7.0/first MVC Project.AssemblyInfoInputs.cache
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/obj/Debug/net7.0/first MVC Project.AssemblyInfo.cs
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/obj/Debug/net7.0/first MVC Project.csproj.CoreCompileInputs.cache
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/obj/Debug/net7.0/first MVC Project.MvcApplicationPartsAssemblyInfo.cache
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/obj/Debug/net7.0/first MVC Project.RazorAssemblyInfo.cache
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/obj/Debug/net7.0/first MVC Project.RazorAssemblyInfo.cs
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/obj/Debug/net7.0/staticwebassets/msbuild.first MVC Project.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/obj/Debug/net7.0/staticwebassets/msbuild.build.first MVC Project.props
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.first MVC Project.props
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.first MVC Project.props
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/obj/Debug/net7.0/staticwebassets.build.json
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/obj/Debug/net7.0/staticwebassets.development.json
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/obj/Debug/net7.0/scopedcss/bundle/first MVC Project.styles.css
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/obj/Debug/net7.0/scopedcss/projectbundle/first MVC Project.bundle.scp.css
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/obj/Debug/net7.0/first MVC Project.dll
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/obj/Debug/net7.0/refint/first MVC Project.dll
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/obj/Debug/net7.0/first MVC Project.pdb
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/obj/Debug/net7.0/first MVC Project.genruntimeconfig.cache
+/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/obj/Debug/net7.0/ref/first MVC Project.dll
