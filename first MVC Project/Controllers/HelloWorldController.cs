@@ -8,14 +8,16 @@ namespace first_MVC_Project.Controllers
 {
     public class helloWorldController : Controller
     {
-        public string Index()
+        public IActionResult Index()
         {
-            return "This is the default page";
+            return View();
         }
 
         public string Hello()
         {
             return "Who's there?";
         }
+
+        
     }
 }
