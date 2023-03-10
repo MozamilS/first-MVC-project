@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/mozamilsadat/Projects/first MVC Project/first MVC Project
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/Views/HelloWorld/hello.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGVsbG9Xb3JsZC9oZWxsby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/mozamilsadat/Projects/first MVC Project/first MVC Project/Views/HelloWorld/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGVsbG9Xb3JsZC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
