@@ -14,8 +14,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Remove="Views\HelloWorld\" />
+    <None Remove="Views\TinDog\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\HelloWorld\" />
+    <Folder Include="Views\TinDog\" />
   </ItemGroup>
 </Project>

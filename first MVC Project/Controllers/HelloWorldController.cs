@@ -13,15 +13,25 @@ namespace first_MVC_Project.Controllers
 
 
         {
-            DogViewModel dog = new DogViewModel() { Name = "Hello", Age = 24 };
+            DogViewModel dog = new DogViewModel() { Name = "Sasha Banks", Age = 24 };
             return View(dog);
         }
 
-        public string Hello()
+        public IActionResult Hello()
         {
-            return "You can make pages? Huh, didn't know that.";
+            return View();
         }
 
+        public IActionResult Create()
+        {
+            var dogVM = new DogViewModel();
+            return View(dogVM);
+        }
+
+        public IActionResult CreateDog(DogViewModel dogViewModel)
+        {
+            return View();
+        }
         
     }
 }
