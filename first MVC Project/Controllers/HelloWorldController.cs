@@ -9,12 +9,13 @@ namespace first_MVC_Project.Controllers
 {
     public class helloWorldController : Controller
     {
+
+        private static List<DogViewModel> dogs = new List<DogViewModel>();
+
         public IActionResult Index()
 
-
         {
-            DogViewModel dog = new DogViewModel() { Name = "Sasha Banks", Age = 24 };
-            return View(dog);
+            return View(dogs);
         }
 
         public IActionResult Hello()
@@ -30,7 +31,8 @@ namespace first_MVC_Project.Controllers
 
         public IActionResult CreateDog(DogViewModel dogViewModel)
         {
-            return View();
+            dogs.Add(dogViewModel);
+            return RedirectToAction(nameof(Index));
         }
         
     }

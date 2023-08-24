@@ -1,32 +1,28 @@
 ﻿<Properties StartupConfiguration="{0FA2DB4F-58CC-4475-B7F2-51B25E9BE5E5}|https">
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.first_220MVC_220Project PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="first MVC Project/Views/HelloWorld/Create.cshtml">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="first MVC Project/Controllers/HelloWorldController.cs">
     <Files>
-      <File FileName="first MVC Project/Views/HelloWorld/Create.cshtml" Line="4" Column="3" />
-      <File FileName="first MVC Project/Controllers/HelloWorldController.cs" Line="27" Column="27" />
-      <File FileName="first MVC Project/Views/Shared/_Layout.cshtml" Line="28" Column="26" />
-      <File FileName="first MVC Project/Views/Home/Index.cshtml" Line="1" Column="1" />
-      <File FileName="first MVC Project/Views/HelloWorld/hello.cshtml" Line="1" Column="1" />
-      <File FileName="first MVC Project/Views/HelloWorld/Index.cshtml" Line="5" Column="3" />
-      <File FileName="first MVC Project/Views/_ViewImports.cshtml" Line="1" Column="1" />
-      <File FileName="first MVC Project/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="first MVC Project/Views/HelloWorld/Create.cshtml" />
+      <File FileName="first MVC Project/Controllers/HelloWorldController.cs" Line="33" Column="1" />
+      <File FileName="first MVC Project/Models/DogViewModel.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="first MVC Project" expanded="True">
-            <Node name="first MVC Project">
-              <Node name="Controllers" expanded="True" />
+          <Node name="first MVC Project">
+            <Node name="first MVC Project" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HelloWorldController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="HelloWorld" expanded="True">
-                  <Node name="Create.cshtml" selected="True" />
-                </Node>
+                <Node name="HelloWorld" expanded="True" />
                 <Node name="Home" expanded="True" />
                 <Node name="Shared" expanded="True" />
               </Node>

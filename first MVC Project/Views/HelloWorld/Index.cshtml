@@ -1,4 +1,4 @@
-﻿@model first_MVC_Project.Models.DogViewModel
+﻿@model List<first_MVC_Project.Models.DogViewModel>
 
 @*
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -11,4 +11,12 @@
 <h1>Hello World</h1>
 
 <p>My new job sucks ass big time</p>
-<p>@Model.Name is @Model.Age years old</p>
+
+<ul>
+@foreach(var dog in Model)
+{
+        <li>@dog.Name</li>
+        <li>@dog.Age</li>
+}
+
+</ul>
